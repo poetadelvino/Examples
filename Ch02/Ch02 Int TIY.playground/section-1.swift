@@ -7,3 +7,5 @@ let uint16Max = UInt16.max
 let uint32Max = UInt32.max
 let uint64Max = UInt64.max
 
+let tree = 1
+
